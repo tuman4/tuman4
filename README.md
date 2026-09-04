@@ -18,31 +18,7 @@ My focus is practical business workflows: lead intake, appointment booking, cust
 
 Portfolio website with live demos, pricing and a Telegram request flow.
 
-Website: https://timurdev.nichelsonnewburyde.chatgpt.site/
-
-### Dacha Flow
-
-Working example of a service landing page with pricing, request collection and a clear client flow.
-
-Demo: https://dacha-flow.vercel.app/
-
-### EGE Trainer Mini App
-
-Demo Telegram Mini App concept for educational workflows: subjects, tasks, answers, hints and learning progress.
-
-Demo: https://ega-mini-app.vercel.app/
-
-### Beglari Mini App
-
-Demo Telegram Mini App with a compact mobile-first business interface.
-
-Demo: https://beglari-telegram-miniapp.vercel.app/
-
-### Crypto Wallet UI
-
-Demo web app interface for a financial product: balance, asset actions and a clear mobile user flow.
-
-Demo: https://crypto-wallet-rose-eta.vercel.app/
+Website: https://b2b.zo.space/
 
 ## Tech Stack
 
@@ -56,7 +32,7 @@ Then I design the product structure, build the interface and backend, connect in
 
 ## Contact
 
-Website: https://timurdev.nichelsonnewburyde.chatgpt.site/  
+Website: https://b2b.zo.space/  
 Telegram: https://t.me/timurgotbenz  
-Instagram: https://www.instagram.com/timur.ruzanovv/  
+Instagram: https://www.instagram.com/shd8shdudgw82/  
 Email: timurdev.work@gmail.com
