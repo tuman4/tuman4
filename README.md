@@ -14,11 +14,9 @@ My focus is practical business workflows: lead intake, appointment booking, cust
 
 ## Selected Work
 
-### TimurDev Portfolio
 
-Portfolio website with live demos, pricing and a Telegram request flow.
 
-Website: https://b2b.zo.space/
+
 
 ## Tech Stack
 
@@ -32,7 +30,7 @@ Then I design the product structure, build the interface and backend, connect in
 
 ## Contact
 
-Website: https://b2b.zo.space/  
+
 Telegram: https://t.me/timurgotbenz  
-Instagram: https://www.instagram.com/shd8shdudgw82/  
+  
 Email: timurdev.work@gmail.com
