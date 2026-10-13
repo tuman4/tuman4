@@ -1,4 +1,4 @@
-# Timur Ruzanov
+
 
 I build Telegram Mini Apps, bots and business automation systems for small and medium-sized businesses.
 
